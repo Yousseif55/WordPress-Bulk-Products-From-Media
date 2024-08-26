@@ -14,11 +14,9 @@ The "Bulk Products From Media" plugin provides functionality for bulk creating W
 - **Notices:** Provides feedback on the number of products generated and any existing products skipped.
 - **Single Image Action:** Adds a "Generate Product" action link for individual media items.
 
-## Installation
+## Guide
 
-1. Upload the `bulk-products-from-media` directory to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Use the bulk actions dropdown in the Media Library or individual media row actions to generate products.
+- Use the bulk actions dropdown in the Media Library or individual media row actions to generate products.
 
 ## Usage
 
