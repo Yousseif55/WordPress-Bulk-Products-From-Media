@@ -51,15 +51,11 @@ A: The plugin will skip the generation for media items that already have associa
 **Q: Can I generate products for individual media items?**  
 A: Yes, you can generate products for individual media items using the "Generate Product" link in the row actions.
 
-## Support
-
-For support, please contact the plugin author or visit the [plugin support forum](https://wordpress.org/support/plugin/bulk-products-from-media).
-
 ## Note
 
 This plugin is a sample project provided for demonstration purposes. Some features and functionality may be customized based on specific requirements or project needs.
 
 ## License
 
-This plugin is released under the [GPLv2 License](https://opensource.org/licenses/GPL-2.0).
+This plugin is released under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
